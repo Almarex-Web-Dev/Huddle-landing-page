@@ -34,8 +34,8 @@ Here's the screenshot of the completed porject below
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-flexbox-css-preprocessor-0caUjXwoDN)
+- Live Site URL: [Add live site URL here](https://huddle-website-project.netlify.app)
 
 ## My process
 
